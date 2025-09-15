@@ -1,4 +1,6 @@
-# Grind_IT Basketball Machine Website
+# Grind_IT Basketball Machine Website  
+
+🔗 **Live Demo:** [grindit.netlify.app](https://grindit.netlify.app/)  
 
 A responsive website project designed to showcase the **Grind_IT Basketball Shooting Machine**, including product details, training tips, and SEO optimization elements.  
 
