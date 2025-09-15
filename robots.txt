@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://grindit.netlify.app/sitemap.xml

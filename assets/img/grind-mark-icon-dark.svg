@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Basketball icon">
+  <title>Basketball icon</title>
+  <defs>
+    <style>
+      .ball { fill: #ff6a00; }
+      .seam { fill: none; stroke: #ffffff; stroke-width: 4; stroke-linecap: round; }
+    </style>
+  </defs>
+  <circle class="ball" cx="32" cy="32" r="28"/>
+  <path class="seam" d="M4,32 H60"/>
+  <path class="seam" d="M32,4 V60"/>
+  <path class="seam" d="M10,50 C25,38 25,26 10,14"/>
+  <path class="seam" d="M54,50 C39,38 39,26 54,14"/>
+</svg>
